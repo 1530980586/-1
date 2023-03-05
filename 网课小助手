@@ -1,0 +1,24 @@
+// ==UserScript==
+// @name         🥇超星/学习通网课小助手|修复视频播放|自动跳转任务点|章测作业字体解密|自动答题|题库覆盖率高、完全免费
+// @namespace    noshuang
+// @version      3.5.2
+// @description  ✨超星学习通视频、章节测试、作业小助手，目前支持以下功能⚪视频自动观看，跳转下一个任务点⚪章节测试自动完成，无答案保存⚪作业自动完成，自动保存
+// @author       noshuang
+// @match        *://*.chaoxing.com/*
+// @connect      cx.icodef.com
+// @connect      s.jiaoyu139.com
+// @run-at       document-end
+// @grant        unsafeWindow
+// @grant        GM_addStyle
+// @grant        GM_getResourceText
+// @grant        GM_xmlhttpRequest
+// @grant        GM_setClipboard
+// @require      https://lib.baomitu.com/jquery/2.0.0/jquery.min.js
+// @require      https://cdn.jsdelivr.net/gh/photopea/Typr.js@15aa12ffa6cf39e8788562ea4af65b42317375fb/src/Typr.min.js
+// @require      https://cdn.jsdelivr.net/gh/photopea/Typr.js@f4fcdeb8014edc75ab7296bd85ac9cde8cb30489/src/Typr.U.min.js
+// @resource     Table https://www.forestpolice.org/ttf/2.0/table.json
+// @license      MIT
+// @original-script https://greasyfork.org/scripts/369625
+// @original-author wyn665817
+// @original-license MIT
+// ==/UserScript==
